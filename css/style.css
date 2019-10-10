@@ -1,0 +1,60 @@
+body{
+    /* background-image:url("https://cdn.pixabay.com/photo/2014/05/18/11/25/pizza-346985__340.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:100vh ;
+    opacity:1;
+     */
+}
+h1{
+    text-align: center;
+    font-style: italic;
+    font-family: 'Faster One', cursive;
+    font-size: 80px;
+    color:red;
+    position: absolute;
+    top: 30%;
+    left: 40%;
+}
+p{
+    font-size: 30px;
+    color:red;
+    text-align:left;
+    padding-top:20%;
+    
+}
+.kichwa{
+    position:relative;
+    align-content: center;
+
+
+}
+.logo{
+    position: absolute;
+    top: 5%;
+    left: 10%
+}
+h2{
+    font-size: 35px;
+    text-align: center;
+    font-family:'Ceviche One', cursive;
+
+
+}
+.about{
+    text-align: center;
+    font-size: 40px;
+}
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: green;
+  }
